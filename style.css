@@ -1,0 +1,49 @@
+#outerbox1{
+    border-radius: 5px;
+    border: 4px rgb(0, 0, 0) solid;
+    padding: 1%;
+    width: 350px;
+    height: 400px;
+    background-color: blanchedalmond;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: auto;
+    margin-right:auto;
+}
+#display{
+    border-radius: 5px;
+    border: 4px rgb(0, 0, 0) solid;
+    width: 320px;
+    height: 58px;
+    background-color:cadetblue;
+    margin-top: 8px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right:auto;
+}
+#row1{
+    text-align: center;
+    font-size: 3.5em;
+}
+#row2{
+    text-align: center;
+    font-size: 3.5em;
+}
+#row3{
+    text-align: center;
+    font-size: 3.5em;
+}
+#row4{
+    text-align: center;
+    font-size: 3.5em;
+}
+.buttons{
+    border: 4px rgb(0, 0, 0) solid;
+    border-radius: 5px;
+    width: 70px;
+    height: 65px;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: coral;
+}
